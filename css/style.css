@@ -127,3 +127,12 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+/* tablet view */
+
+ @media all and (max-width:768px) {
+    
+    .container {
+        width: auto;
+    }
+ }
