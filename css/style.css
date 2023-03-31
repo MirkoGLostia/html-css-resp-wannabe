@@ -126,12 +126,27 @@ img {
 }
 
 /************************************************
-    SOLUZIONE RESPONSIVE
+    BONUS
  ************************************************/
+
+/* laptop view */
+
+@media all and (max-width:1160px) {
+    
+    .container {
+        width: 100%;
+        max-width: 1140px;
+    }
+} 
+
+
+/************************************************
+SOLUZIONE RESPONSIVE
+************************************************/
 
 /* tablet view */
 
- @media all and (max-width:768px) {
+@media all and (max-width:768px) {
     
     .container {
         width: auto;
@@ -180,8 +195,4 @@ img {
         margin-bottom: 0; 
     }
  }
-
-
-
-
 
