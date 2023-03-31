@@ -109,7 +109,7 @@ img {
 
 /* WHY US SECTION */
 .why-us {
-    margin-bottom: 3rem;
+    margin-bottom: 3rem; 
 }
 
 .why-us .col-left {
@@ -165,4 +165,23 @@ img {
     .why-us .col-right {
         width: 100%;
     }
+
+    .why-us {
+        background-color: rgb(34,34,34);
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        margin-bottom: 0; 
+    }
  }
+
+
+
+
+
